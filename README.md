@@ -10,11 +10,7 @@ For the Zumo this meant that we needed to make use of its line sensor (to stay w
 The ‘building’ consist of a corridor with corners and adjoining rooms. The boarders of the building are set out with black lines on a white background. 
 
 ## Video of Robot in Action
-<p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9lQy158vBtM
-" target="_blank"><img src="http://img.youtube.com/vi/9lQy158vBtM/0.jpg" 
-alt="Zumo Robot in Maze" width="640" height="400" border="10" /></a>
-</p>
+https://drive.google.com/file/d/1L2UD52781hccR_ZKhagTQc6duNPfSp-r/view?usp=sharing
 
 ## Quick Operation Overview
 The way in which my robot completes the course, is by using the line detector to make small adjustments to it's position. If the detector only senses a line on ONE the far sensors
